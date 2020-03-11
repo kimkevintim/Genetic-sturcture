@@ -1,6 +1,6 @@
 # Rationlity test for raw AFLP data by genetic structure
 
-2017/10
+2018/02
 
 There probalby doesn't has "one" way to determine the rationality of genetic data for non-model organisms in wild.
 We recommend to assess there genetic structure before further analysis. Because it usually correlated to their geographical distribution or phylogenetics. Result may help for evalute the rationality of raw data.
